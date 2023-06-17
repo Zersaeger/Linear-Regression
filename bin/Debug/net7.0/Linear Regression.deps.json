@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Linear Regression/1.0.0": {
+        "runtime": {
+          "Linear Regression.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Linear Regression/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
